@@ -1,0 +1,6 @@
+﻿  PR4.3.cpp
+C:\Users\zemts\source\repos\PR4.3\PR4.3.cpp(21,40): warning C4244: аргумент: преобразование "double" в "std::streamsize", возможна потеря данных
+C:\Users\zemts\source\repos\PR4.3\PR4.3.cpp(37,12): warning C4244: аргумент: преобразование "double" в "std::streamsize", возможна потеря данных
+C:\Users\zemts\source\repos\PR4.3\PR4.3.cpp(11,39): warning C4101: m: неиспользованная локальная переменная
+C:\Users\zemts\source\repos\PR4.3\PR4.3.cpp(11,37): warning C4101: l: неиспользованная локальная переменная
+  PR4.3.vcxproj -> C:\Users\zemts\source\repos\PR4.3\x64\Debug\PR4.3.exe
